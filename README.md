@@ -1,5 +1,8 @@
 # coa1e47ea9793df1a982ff64b
 
+A simple business card built using the fundamentals of CSS.
+Scrimba.com front end developer path solo project
+
 Quick start:
 
 ```
